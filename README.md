@@ -1,3 +1,6 @@
+#React
+Creating a searching page for tv series from an api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
